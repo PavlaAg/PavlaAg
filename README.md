@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PavlaAg
 - 👀 I’m interested in ...learning about computer programming
 - 🌱 I’m currently learning ...all of it
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web programming, with the aim of learning with real projects.
 - 📫 How to reach me ...I don't have a computer so...use smoke signals :)
 
 <!---
